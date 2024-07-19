@@ -1,12 +1,5 @@
 # React-redux-socketio-chat
 
-![alt tag](ReadmeVideo.gif)
-To see the live version of the app go to http://slackclone.herokuapp.com
-
-## Use Guide
-
-[Korean translation](/README_KOR.md)
-
 First off, clone the repository and then `cd react-redux-socketio-chat`and `npm install`
 
 You can create channels with the + sign on the nav bar on the left.
